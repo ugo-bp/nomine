@@ -9,8 +9,9 @@ Sistema in fase di test.
 Il sistema e' attualmente funzionante.
 
 Il primo rilascio di un immagine di un nodo (in beta test)
-e' previsto per il 31-08-2021. Nelle prime fasi verranno rilasciate
-solo immagini di SD per raspberry.
+e' previsto per il 31-08-2021. 
+Nelle prime fasi verranno rilasciate solo immagini 
+di SD per raspberry.
 
 
 Principali caratteristiche di un nodo:
