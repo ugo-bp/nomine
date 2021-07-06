@@ -5,7 +5,9 @@ CryptoToken for cashless payments on vending machines
 Token exchange rate (in test phase) 1 n$ = 1 €
 
 nomine:0      1 n$ = 1 €
+
 nomine:1001   1 n$ = 0.5 €
+
 nomine:1002   1 n$ = 0.5 €
 
 
