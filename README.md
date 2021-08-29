@@ -2,25 +2,17 @@
 
 <img src="https://github.com/ugo-bp/nomine/blob/main/images/nomine-ico1.png" />
 
-CryptoToken for cashless payments on vending machines 
+CryptoToken for cashless payments
 
-Token exchange rate (in test phase) 1 n$ = 1 €
-
-nomine:0      1 n$ = 1 €
+nomine:0      1 n$ = 
 
 nomine:1001   1 n$ = 0.5 €
-
 nomine:1002   1 n$ = 0.5 €
 
 
 Sistema in fase di test.
 
-Il sistema e' attualmente funzionante.
 
-Il primo rilascio di un immagine di un nodo (in beta test)
-e' previsto per il 31-08-2021. 
-Nelle prime fasi verranno rilasciate solo immagini 
-di SD per raspberry.
 
 
 Principali caratteristiche di un nodo:
