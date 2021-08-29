@@ -7,6 +7,7 @@ CryptoToken for cashless payments
 nomine:0      1 n$ = 
 
 nomine:1001   1 n$ = 0.5 €
+
 nomine:1002   1 n$ = 0.5 €
 
 
