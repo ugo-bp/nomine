@@ -1,6 +1,6 @@
 # nomine (n$)
 
-![alt text](https://github.com/ugo-bp/nomine/images/nomine-ico1.png?raw=true)
+<img src="https://github.com/ugo-bp/nomine/images/nomine-ico1.png" />
 
 CryptoToken for cashless payments on vending machines 
 
