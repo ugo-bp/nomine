@@ -1,8 +1,6 @@
-# nomine (n$)
+# <img src="https://github.com/ugo-bp/nomine/blob/main/images/nomine-ico1.png" /> <p>nomine (n$)</p>
 
-<img src="https://github.com/ugo-bp/nomine/blob/main/images/nomine-ico1.png" />
-
-CryptoToken for cashless payments
+<b>CryptoToken for cashless payments</b>
 
 nomine:0      1 n$ = 
 
