@@ -2,6 +2,8 @@
 
 <b>CryptoToken for cashless payments</b>
 
+<b>This is the only official website of nomine (n$) cryptotoken.</b> 
+
 nomine:0      1 n$ = 
 
 nomine:1001   1 n$ = 0.5 €
