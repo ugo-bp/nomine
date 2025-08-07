@@ -4,7 +4,6 @@
 
 <b>This is the only official website of nomine (n$) cryptotoken.</b> 
 
-nomine:0      1 n$ = 
 
 
 <b>System under test</b>
@@ -22,4 +21,4 @@ Main features
 - Everyone earns tokens
 
 To prevent the proliferation of unused wallets, we had to introduce a wallet creation request process.
-
+For more information visit our website <b>nomine.dyndns.org</b>
