@@ -20,5 +20,5 @@ Main features
 - Blockchain cannot be recalculated by a single user
 - Everyone earns tokens
 
-To prevent the proliferation of unused wallets, we had to introduce a wallet creation request process.
+To prevent the proliferation of unused wallets, we had to introduce a wallet creation request process.<br>
 For more information visit our website <b>nomine.dyndns.org</b>
