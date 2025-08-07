@@ -6,19 +6,20 @@
 
 nomine:0      1 n$ = 
 
-nomine:1001   1 n$ = 0.5 €
 
-nomine:1002   1 n$ = 0.5 €
-
-
-Sistema in fase di test.
+<b>System under test</b>
 
 
 
+Main features
+- Based on a group of independent nodes (decentralized)
+- No need for a local blockchain
+- No need for external exchanges
+- No mining, eco-friendly
+- Near-real-time transactions
+- Distributed validation without validator nodes
+- Blockchain cannot be recalculated by a single user
+- Everyone earns tokens
 
-Principali caratteristiche di un nodo:
-
-- Possiede un proprio portafoglio
-- Puo' vincere dei gettoni in modo casuale
-- Guadagna una percentuale su ogni operazione che genera
+To prevent the proliferation of unused wallets, we had to introduce a wallet creation request process.
 
